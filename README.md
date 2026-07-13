@@ -329,7 +329,7 @@ Example Response:
 
 Mostafa Mohamed
 
-Artificial Intelligence Student
+Artificial Intelligence 
 
 
 Focused on:
